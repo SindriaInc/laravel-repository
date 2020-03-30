@@ -1,6 +1,6 @@
 {
-    "name": "czim/laravel-repository",
-    "description": "Repository for Laravel (inspired by and indebted to Bosnadev/Repositories)",
+    "name": "sindria/laravel-repository",
+    "description": "Repository for Laravel (fork of czim/laravel-repository)",
     "keywords": [
         "laravel",
         "repository",
@@ -9,14 +9,14 @@
         "database",
         "criteria"
     ],
-    "homepage": "https://github.com/czim/laravel-repository",
+    "homepage": "https://github.com/SindriaInc/laravel-repository",
     "license": "MIT",
     "authors": [
         {
-            "name": "Coen Zimmerman",
-            "email": "coen@pxlwidgets.com",
-            "homepage": "http://www.pixelindustries.com",
-            "role": "Developer"
+            "name": "Luca Pitzoi",
+            "email": "luca.pitzoi@sindria.org",
+            "homepage": "https://sindria.org",
+            "role": "DevOps"
         }
     ],
     "require": {
